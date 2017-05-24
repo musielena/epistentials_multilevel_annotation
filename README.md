@@ -5,6 +5,6 @@ The folder "Analysis" contains the annotation in xml. format.
 
 The folder "Schemes" describes the proposed annotation schemes. 
 
-The folder "Corpus" contains the analysed corpus: 50 articles from the daily newspapers the "New York Times" and 50 articles form "il Corriere della Sera". 
+The folder "Corpus" contains the analysed corpus: 50 articles from the daily newspapers the "New York Times" and 50 articles from the daily newspaper "il Corriere della Sera". 
 
 Tha annotation was done with UAM Corpus Tool. 
