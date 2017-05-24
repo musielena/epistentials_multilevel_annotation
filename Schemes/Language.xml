@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<NETWORK VERSION='1.1'>
+  <ROOT>
+    <FEATURE>
+      <NAME>language</NAME>
+      <STATE>active</STATE>
+      <REALISATIONS>
+        <REALISATION>
+          <OP>Require_Field</OP>
+          <ARGS>subcorp string</ARGS>
+        </REALISATION>
+        <REALISATION>
+          <OP>Require_Field</OP>
+          <ARGS>filename string</ARGS>
+        </REALISATION>
+      </REALISATIONS>
+    </FEATURE>
+  </ROOT>
+  <SYSTEMS>
+    <SYSTEM>
+      <NAME>LANGUAGE-TYPE</NAME>
+      <EC>language</EC>
+      <FEATURES>
+        <FEATURE>
+          <NAME>english</NAME>
+          <STATE>active</STATE>
+        </FEATURE>
+        <FEATURE>
+          <NAME>italian</NAME>
+          <STATE>active</STATE>
+        </FEATURE>
+      </FEATURES>
+    </SYSTEM>
+
+  </SYSTEMS></NETWORK>

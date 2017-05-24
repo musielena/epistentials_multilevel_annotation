@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>ENG/1_1-50_evidently.txt</textfile>
+    <lang>english</lang>
+    <complete>99%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='717' end='726' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='2' start='769' end='778' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='3' start='2259' end='2268' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intrasentential;intrinsic;causal;efficient_cause;from_concomitants_to_causation' state='active'/>
+      <segment id='4' start='2546' end='2555' features='micro_argumentation;yes_speaker_inference;no_hearer_inference;yes_textual_premises;intrasentential;intrinsic;causal;efficient_cause;from_cause_to_effect' state='active'/>
+      <segment id='5' start='7718' end='7727' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intrasentential;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='6' start='7870' end='7879' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;material_cause;other_material_cause_implications' state='active'/>
+      <segment id='7' start='13086' end='13095' features='micro_argumentation;yes_speaker_inference;no_hearer_inference;no_textual_premises;intrinsic;mereological;correlates' state='active'/>
+      <segment id='9' start='18414' end='18423' features='micro_argumentation;yes_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='10' start='18747' end='18756' features='micro_argumentation;yes_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='11' start='24778' end='24787' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='12' start='24896' end='24905' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='13' start='30997' end='31006' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;multiple_manifestations;intrinsic;causal;instrumental_cause' state='active'/>
+      <segment id='14' start='31528' end='31537' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;definitional;property_and_accident' state='active'/>
+      <segment id='15' start='37108' end='37117' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='16' start='38079' end='38088' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='17' start='42046' end='42055' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='18' start='42600' end='42609' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;definitional;definition' state='active'/>
+      <segment id='19' start='48459' end='48468' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='20' start='48599' end='48608' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='21' start='50660' end='50669' features='micro_argumentation;yes_speaker_inference;no_hearer_inference;yes_textual_premises;multiple_manifestations;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='22' start='50986' end='50995' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='23' start='53667' end='53676' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='24' start='54489' end='54498' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;mereological;whole_and_part' state='active'/>
+      <segment id='25' start='57327' end='57336' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intrasentential;intrinsic;causal;instrumental_cause' state='active'/>
+      <segment id='26' start='58564' end='58573' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;multiple_manifestations;intrinsic;causal;instrumental_cause' state='active'/>
+      <segment id='27' start='65264' end='65273' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='28' start='65928' end='65937' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='29' start='66620' end='66629' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='30' start='71134' end='71143' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='31' start='71266' end='71275' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='32' start='76742' end='76751' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='33' start='77476' end='77485' features='micro_argumentation;yes_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='34' start='85413' end='85422' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;efficient_cause;from_concomitants_to_causation' state='active'/>
+      <segment id='35' start='86004' end='86013' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='36' start='92099' end='92108' features='micro_argumentation;yes_speaker_inference;no_hearer_inference;yes_textual_premises;intrasentential;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='37' start='92553' end='92562' features='micro_argumentation;yes_speaker_inference;yes_textual_premises;intersentential;intrinsic;yes_hearer_inference;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='38' start='97811' end='97820' features='micro_argumentation;yes_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='39' start='98143' end='98152' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='40' start='101696' end='101705' features='micro_argumentation;yes_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='41' start='102043' end='102052' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intrasentential;intrinsic;causal;efficient_cause;from_cause_to_effect' state='active'/>
+      <segment id='42' start='106330' end='106339' features='micro_argumentation;yes_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='43' start='107522' end='107531' features='micro_argumentation;yes_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='44' start='111701' end='111710' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='45' start='111900' end='111909' features='micro_argumentation;yes_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='46' start='114691' end='114700' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='47' start='115684' end='115693' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='48' start='124231' end='124240' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='49' start='124552' end='124561' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;multiple_manifestations;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='50' start='128439' end='128448' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='51' start='128544' end='128553' features='micro_argumentation;no_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;extrinsic;opposition' state='active'/>
+      <segment id='52' start='135731' end='135740' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='53' start='137206' end='137215' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intrasentential;intrinsic;causal;efficient_cause;from_cause_to_effect' state='active'/>
+      <segment id='54' start='142102' end='142111' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='55' start='142921' end='142930' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;multiple_manifestations;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='56' start='149763' end='149772' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='57' start='151600' end='151609' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;definitional;property_and_accident' state='active'/>
+      <segment id='58' start='154842' end='154851' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;mereological;whole_and_part' state='active'/>
+      <segment id='59' start='155696' end='155705' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='60' start='159957' end='159966' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='61' start='161720' end='161729' features='micro_argumentation;no_speaker_inference;yes_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='62' start='165385' end='165394' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intrasentential;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='63' start='165638' end='165647' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='8' start='167100' end='167109' features='micro_argumentation;yes_speaker_inference;no_hearer_inference;no_textual_premises;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='65' start='171071' end='171080' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intrasentential;intrinsic;definitional;definition' state='active'/>
+      <segment id='66' start='171866' end='171875' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='67' start='174983' end='174992' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='68' start='175047' end='175056' features='micro_argumentation;no_hearer_inference;yes_speaker_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='69' start='180758' end='180767' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='70' start='181510' end='181519' features='micro_argumentation;yes_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='71' start='182085' end='182094' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intrasentential;extrinsic;good_bad_/_start_stop' state='active'/>
+      <segment id='75' start='188160' end='188169' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='76' start='189484' end='189493' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='77' start='190385' end='190394' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='78' start='191511' end='191520' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='79' start='194685' end='194694' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='80' start='195016' end='195025' features='micro_argumentation;no_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;mereological;whole_and_part' state='active'/>
+      <segment id='83' start='212076' end='212085' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='84' start='212603' end='212612' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;multiple_manifestations;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active' comment='The Soprano Jessica Gould is also artistic director of Salon Sanctuary. Multiple manifestation = there is mostly long range anaphora.'/>
+      <segment id='85' start='215826' end='215835' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intrasentential;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='86' start='217236' end='217245' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='87' start='220111' end='220120' features='micro_argumentation;yes_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='88' start='221632' end='221641' features='micro_argumentation;yes_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='89' start='226703' end='226712' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='90' start='228196' end='228205' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;mereological;whole_and_part' state='active'/>
+      <segment id='91' start='230214' end='230223' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intraclausal;intrinsic;causal;efficient_cause;from_concomitants_to_causation' state='active' comment='From concomitants to LACK of causation.'/>
+      <segment id='92' start='232402' end='232411' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='93' start='235975' end='235984' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intrasentential;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='94' start='237411' end='237420' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intrasentential;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='95' start='238001' end='238010' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intrasentential;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='96' start='239440' end='239449' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='97' start='241301' end='241310' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intrasentential;intrinsic;causal;efficient_cause;from_concomitants_to_causation' state='active'/>
+      <segment id='98' start='242067' end='242076' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intrasentential;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='99' start='243618' end='243627' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='100' start='245393' end='245402' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;mereological;whole_and_part' state='active'/>
+      <segment id='101' start='251430' end='251439' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;definitional;definition' state='active'/>
+      <segment id='102' start='251767' end='251776' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;multiple_manifestations;intrinsic;definitional;property_and_accident' state='active'/>
+      <segment id='103' start='252794' end='252803' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intrasentential;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='104' start='252895' end='252904' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='105' start='254906' end='254915' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;mereological;whole_and_part' state='active'/>
+      <segment id='106' start='256914' end='256923' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='107' start='261442' end='261451' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intrasentential;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='108' start='262336' end='262345' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;extrinsic;opposition' state='active'/>
+      <segment id='109' start='269627' end='269636' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intrasentential;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='110' start='271474' end='271483' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='111' start='276393' end='276402' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;complex;commitment;assertive_record' state='active'/>
+      <segment id='112' start='277065' end='277074' features='micro_argumentation' state='active'/>
+    </segments>
+</document>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>ITA/1_1-25_evidentemente.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <segments>
+      <segment id='1' start='4' end='105669' features='language;italian' state='active'>
+        <fields>
+          <field name='subcorp' value='ITA'/>
+          <field name='filename' value='1_1-25_evidentemente.txt'/>
+        </fields>
+      </segment>
+    </segments>
+</document>

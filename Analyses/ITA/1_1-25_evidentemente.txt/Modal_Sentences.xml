@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>ITA/1_1-25_evidentemente.txt</textfile>
+    <lang>english</lang>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='9' start='2654' end='2981' features='modalized;modal_sentence;evidentemente;interpretive-proposition' state='active'/>
+      <segment id='10' start='2982' end='3097' features='modal_sentence;modalized;evidentemente;interpretive-proposition' state='active'/>
+      <segment id='32' start='6985' end='7141' features='modal_sentence;modalized;evidentemente;interpretive-proposition' state='active'/>
+      <segment id='36' start='7579' end='7683' features='modal_sentence;modalized;evidentemente;interpretive-proposition' state='active'/>
+      <segment id='48' start='9938' end='10006' features='modal_sentence;modalized;evidentemente;interpretive-proposition' state='active'/>
+      <segment id='61' start='11963' end='12233' features='modal_sentence;modalized;evidentemente;interpretive-proposition' state='active'/>
+      <segment id='65' start='12836' end='13148' features='modal_sentence;modalized;evidentemente;interpretive-proposition' state='active'/>
+      <segment id='74' start='14604' end='14752' features='modal_sentence;modalized;evidentemente;interpretive-proposition' state='active'/>
+      <segment id='87' start='16290' end='16458' features='modal_sentence;modalized;evidentemente;interpretive-proposition' state='active'/>
+      <segment id='98' start='18071' end='18419' features='modal_sentence;modalized;evidentemente;interpretive-proposition' state='active'/>
+      <segment id='110' start='19931' end='20168' features='modal_sentence;modalized;evidentemente;interpretive-proposition' state='active'/>
+      <segment id='138' start='25068' end='25271' features='modal_sentence;modalized;evidentemente;descriptive-proposition' state='active'/>
+      <segment id='145' start='26286' end='26589' features='modal_sentence;modalized;evidentemente;descriptive-proposition' state='active'/>
+      <segment id='146' start='26590' end='26839' features='modal_sentence;modalized;evidentemente;interpretive-proposition' state='active'/>
+      <segment id='168' start='30857' end='30982' features='modal_sentence;modalized;evidentemente;evaluative-proposition' state='active'/>
+      <segment id='176' start='32093' end='32224' features='modal_sentence;modalized;evidentemente;evaluative-proposition' state='active'/>
+      <segment id='197' start='35933' end='35998' features='modal_sentence;modalized;evidentemente;evaluative-proposition' state='active'/>
+      <segment id='206' start='37288' end='37612' features='modal_sentence;modalized;evidentemente;interpretive-proposition' state='active'/>
+      <segment id='222' start='39039' end='39199' features='modal_sentence;modalized;evidentemente;interpretive-proposition' state='active'/>
+      <segment id='266' start='45905' end='46020' features='modal_sentence;modalized;evidentemente;evaluative-proposition' state='active'/>
+      <segment id='310' start='50897' end='51155' features='modal_sentence;modalized;evidentemente;interpretive-proposition' state='active'/>
+      <segment id='344' start='55041' end='55120' features='modal_sentence;modalized;evidentemente;interpretive-proposition' state='active'/>
+      <segment id='363' start='57538' end='57766' features='modal_sentence;modalized;evidentemente;interpretive-proposition' state='active'/>
+      <segment id='382' start='62251' end='62371' features='modal_sentence;modalized;evidentemente;evaluative-proposition' state='active'/>
+      <segment id='404' start='67553' end='67720' features='modal_sentence;modalized;evidentemente;interpretive-proposition' state='active'/>
+      <segment id='415' start='69397' end='69677' features='modal_sentence;modalized;evidentemente;interpretive-proposition' state='active'/>
+      <segment id='436' start='72171' end='72385' features='modal_sentence;modalized;evidentemente;descriptive-proposition' state='active'/>
+      <segment id='466' start='75116' end='75232' features='modal_sentence;modalized;evidentemente;interpretive-proposition' state='active'/>
+      <segment id='478' start='77236' end='77389' features='modal_sentence;modalized;evidentemente;interpretive-proposition' state='active'/>
+      <segment id='498' start='81466' end='81552' features='modal_sentence;modalized;evidentemente;interpretive-proposition' state='active'/>
+      <segment id='525' start='85875' end='86001' features='modal_sentence;modalized;evidentemente;interpretive-proposition' state='active'/>
+      <segment id='538' start='87748' end='87957' features='modal_sentence;modalized;evidentemente;interpretive-proposition' state='active'/>
+      <segment id='583' start='93202' end='93508' features='modal_sentence;modalized;evidentemente;interpretive-proposition' state='active'/>
+      <segment id='614' start='97503' end='97726' features='modal_sentence;modalized;evidentemente;interpretive-proposition' state='active'/>
+      <segment id='626' start='99516' end='99875' features='modal_sentence;modalized;evidentemente;evaluative-proposition' state='active'/>
+    </segments>
+</document>

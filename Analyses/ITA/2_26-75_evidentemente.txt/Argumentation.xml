@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>ITA/2_26-75_evidentemente.txt</textfile>
+    <lang>english</lang>
+    <complete>61%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='1741' end='1754' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='2' start='2493' end='2506' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intrasentential;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='5' start='7980' end='7993' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intraclausal;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='6' start='9130' end='9143' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intraclausal;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='7' start='9903' end='9916' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='8' start='10227' end='10240' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;no_textual_premises;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='11' start='18499' end='18512' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intrasentential;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='12' start='19979' end='19992' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='15' start='27132' end='27145' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;multiple_manifestations;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='16' start='27499' end='27512' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;multiple_manifestations;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='17' start='28642' end='28655' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='18' start='29906' end='29919' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='19' start='30968' end='30981' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intrasentential;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='20' start='32053' end='32066' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='21' start='34128' end='34141' features='micro_argumentation;no_speaker_inference;yes_hearer_inference;no_textual_premises;intrinsic;causal;instrumental_cause' state='active'/>
+      <segment id='22' start='36681' end='36694' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='23' start='38060' end='38073' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='24' start='41218' end='41231' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='25' start='45609' end='45622' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;extrinsic;opposition' state='active'/>
+      <segment id='26' start='48111' end='48124' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='27' start='50002' end='50015' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;definitional;definition' state='active'/>
+      <segment id='28' start='53551' end='53564' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='29' start='55979' end='55992' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='30' start='59114' end='59127' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intrasentential;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='31' start='62009' end='62022' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intrasentential;intrinsic;causal;efficient_cause;from_cause_to_effect' state='active'/>
+      <segment id='32' start='63881' end='63894' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;final_cause;from_behavior_to_goal' state='active'/>
+      <segment id='33' start='67405' end='67418' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='34' start='72451' end='72464' features='micro_argumentation;yes_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='35' start='76707' end='76720' features='micro_argumentation;no_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;definitional;definition' state='active'/>
+      <segment id='36' start='80250' end='80263' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='37' start='83019' end='83032' features='micro_argumentation;yes_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='38' start='90632' end='90645' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='39' start='92232' end='92245' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intersentential;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='40' start='94643' end='94656' features='micro_argumentation;yes_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='41' start='95988' end='96001' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='42' start='97292' end='97305' features='micro_argumentation;yes_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='43' start='100567' end='100580' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intraclausal;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active' comment='Bell&apos;esempio di argomentazione intraclausal.'/>
+      <segment id='44' start='105766' end='105779' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intrasentential;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='45' start='107484' end='107497' features='micro_argumentation;yes_speaker_inference;yes_hearer_inference;yes_textual_premises;intrasentential;intrinsic;causal;efficient_cause;from_effect_to_cause' state='active'/>
+      <segment id='46' start='108499' end='108512' features='micro_argumentation;no_speaker_inference;no_hearer_inference;no_textual_premises;no_discernible_locus' state='active'/>
+      <segment id='47' start='112068' end='112081' features='micro_argumentation' state='active'/>
+      <segment id='48' start='115210' end='115223' features='micro_argumentation' state='active'/>
+      <segment id='49' start='117980' end='117993' features='micro_argumentation' state='active'/>
+      <segment id='50' start='125728' end='125741' features='micro_argumentation' state='active'/>
+      <segment id='51' start='125747' end='125760' features='micro_argumentation' state='active'/>
+      <segment id='52' start='128054' end='128067' features='micro_argumentation' state='active'/>
+      <segment id='53' start='131013' end='131026' features='micro_argumentation' state='active'/>
+      <segment id='54' start='133224' end='133237' features='micro_argumentation' state='active'/>
+      <segment id='55' start='134831' end='134844' features='micro_argumentation' state='active'/>
+      <segment id='56' start='135818' end='135831' features='micro_argumentation' state='active'/>
+      <segment id='57' start='137106' end='137119' features='micro_argumentation' state='active'/>
+      <segment id='58' start='139328' end='139341' features='micro_argumentation' state='active'/>
+      <segment id='59' start='142495' end='142508' features='micro_argumentation' state='active'/>
+      <segment id='60' start='143890' end='143903' features='micro_argumentation' state='active'/>
+      <segment id='61' start='146155' end='146168' features='micro_argumentation' state='active'/>
+      <segment id='62' start='148239' end='148252' features='micro_argumentation' state='active'/>
+      <segment id='63' start='149906' end='149919' features='micro_argumentation' state='active'/>
+      <segment id='64' start='153307' end='153320' features='micro_argumentation' state='active'/>
+      <segment id='65' start='156552' end='156565' features='micro_argumentation' state='active'/>
+      <segment id='66' start='157831' end='157844' features='micro_argumentation' state='active'/>
+      <segment id='67' start='159727' end='159740' features='micro_argumentation' state='active'/>
+      <segment id='68' start='162691' end='162704' features='micro_argumentation' state='active'/>
+      <segment id='69' start='164965' end='164978' features='micro_argumentation' state='active'/>
+      <segment id='70' start='168303' end='168316' features='micro_argumentation' state='active'/>
+      <segment id='71' start='170945' end='170958' features='micro_argumentation' state='active'/>
+    </segments>
+</document>

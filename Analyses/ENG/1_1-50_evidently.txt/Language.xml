@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>ENG/1_1-50_evidently.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <segments>
+      <segment id='1' start='5' end='277333' features='english;language' state='active'>
+        <fields>
+          <field name='subcorp' value='ENG'/>
+          <field name='filename' value='1_1-50_evidently.txt'/>
+        </fields>
+      </segment>
+    </segments>
+</document>

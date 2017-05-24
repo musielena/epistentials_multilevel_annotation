@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>ITA/1_1-25_evidentemente.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <segments>
+      <segment id='1' start='281' end='294' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='2' start='2706' end='2719' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='3' start='2995' end='3008' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='4' start='7005' end='7018' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='5' start='7639' end='7652' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='6' start='9941' end='9954' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='7' start='12075' end='12088' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='8' start='12843' end='12856' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='9' start='14696' end='14709' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='10' start='16353' end='16366' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='11' start='18333' end='18346' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='12' start='20107' end='20120' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='13' start='25171' end='25184' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='14' start='26522' end='26535' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='15' start='26685' end='26698' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='16' start='30881' end='30894' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='17' start='32189' end='32202' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='18' start='35966' end='35979' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='19' start='37302' end='37315' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='20' start='39043' end='39056' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='21' start='45905' end='45918' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='22' start='50916' end='50929' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='23' start='55050' end='55063' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='24' start='57545' end='57558' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='25' start='62277' end='62290' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='26' start='67567' end='67580' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='27' start='69447' end='69460' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='28' start='72212' end='72225' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='29' start='75158' end='75171' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='30' start='77282' end='77295' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='31' start='81531' end='81544' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='32' start='85900' end='85913' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='33' start='87803' end='87816' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='34' start='93219' end='93232' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='35' start='97630' end='97643' features='adverb;modal_lexemes;evidentemente' state='active'/>
+      <segment id='36' start='99539' end='99552' features='adverb;modal_lexemes;evidentemente' state='active'/>
+    </segments>
+</document>
